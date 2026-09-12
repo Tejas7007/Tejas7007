@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 28" width="133" height="28" role="img" aria-label="OPEN FILE">
+<title>OPEN FILE</title>
+<style>
+  @font-face{font-family:'Martian Mono';font-weight:400;font-display:swap;src:url(data:font/woff2;base64,d09GMgABAAAAAANIAA8AAAAABxgAAALwAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVEQAVBEICoJogigBNgIkAxQLFAAEIAWFBgcgG8EFCK4G7MZhQ4nTKqhcGD6h4D+mWqbV8ytUiej7vd96zrsbYoDyKFTKNoToF7forzRCfuVIDmOfT7/W3u5inkjMj6jZyuk/0crQTLJHlcSQriEemis8T6e+f2uSxyB2IU8wnYAlCFF5YhtNkPNfryl9de9/gHj0V5fqnz3ga1t899Ko2fck3rq1DhTBADVrVKolgNUDlglggDDqdCtjLRMPSw0lx5AeIntOb0YwDSglIjqjIpi0zQ9z7UZxNZw06A8IJp3lj+VG8/j22qCGL40sb3Uww7DUgK0Hd+MF8kJkgJpiokBDAOC/x38Me+wr766dh3bFLwL1qCOAfZyIcYVlLI6xJ+8MEsPg5KNkYCCaeQwqhXegExUrd1BDgEKHZZxgmZ1LYNq40uzLVaBYeS/25UCs9GXM0K5tWwkAiPSaQ0yARTCBd+AUQAPEoVpqerK4VkqN2VemmYomVpZsk3QmW07dbGo4YEzVdq4uLZM11TE4Z9YL19MZfpzW9l0g4txlP42cufqaCSPn1CUpnYl56UyuiM8x3TGfA6Zu0b9ZgxG1ZcOGHbBOdBtVCtTu7//cVb8vmyV4Pjc6cnB4eGqjR+qIvLlmYnJStGYZh434FNOEFCk/X8bS+OKpopW5lNyc5OR2DylzwCkE4buG//NM/gic/oVf36cJwL9XrwaJ/XMNcuGAUQXClpg1pHChQyAuPyJ1YOjHA8M6Zol6gGDCOhZEWzVlAC0twk+AIM6ZhzLrL3TuuYfmStJhxGZkRl1ILMF0niBM5mNZVp8phen8XUVpWOnIiCQGRKRw7xDVCeJnl+igYyDTQa3Xo9QoopwOJcfrYkBkMDKQUDp6hH+fa6ChlyhMGJEM+WmjTqG6UCpheCYySqoH43phVDZoQJnZVXgqMjksNNT63XjdKvFERkoddCKECnfvSlKqTKkcSctlbUx7hEirq/Ui5tXi36xMhlIjyrazYLgO/7UcImW6Gb61FKWj0kGJA/qathUA) format('woff2')}
+  text { font-family: 'Archivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'Martian Mono', ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+</style>
+<rect x=".5" y=".5" width="132" height="27" rx="3" fill="#080d13" stroke="#1f262d"/>
+<rect x="10" y="8" width="2" height="12" fill="#91a8bb" opacity=".7"/>
+<polygon points="21,10 21,18 28,14" fill="#91a8bb"/>
+<text class="mono" x="34" y="18" fill="#91a8bb" font-size="11" letter-spacing="1.76">OPEN FILE</text>
+</svg>

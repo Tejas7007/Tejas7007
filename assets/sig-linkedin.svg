@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 32" width="1000" height="32" role="img" aria-label="LINKEDIN — linkedin.com/in/tejasdahiya">
+<title>LINKEDIN — linkedin.com/in/tejasdahiya</title>
+<defs>
+  <linearGradient id="wire" x1="190" y1="0" x2="535" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#45515c" stop-opacity="0"/>
+    <stop offset=".12" stop-color="#45515c"/>
+    <stop offset=".88" stop-color="#45515c"/>
+    <stop offset="1" stop-color="#45515c" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x=".5" y=".5" width="999" height="31" rx="4" fill="#080d13" stroke="#1f262d"/>
+<rect x="12" y="9" width="4" height="14" fill="#91a8bb" opacity=".7"/>
+<polygon points="31,12 31,20 38,16" fill="#91a8bb"/>
+<text x="48" y="24" fill="#b8d4eb" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="24" font-weight="500" letter-spacing="0.3">LINKEDIN</text>
+<rect x="190" y="15.5" width="345" height="1" fill="url(#wire)"/>
+<text x="960" y="24" text-anchor="end" fill="#708291" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="24" font-weight="400" letter-spacing="0.3">linkedin.com/in/tejasdahiya</text>
+<rect x="982" y="13" width="6" height="6" fill="#d81f35"/>
+</svg>

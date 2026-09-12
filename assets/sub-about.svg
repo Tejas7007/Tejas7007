@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 26" width="600" height="26" role="img" aria-label="ABOUT ME — ACCESS: PUBLIC">
+<title>ABOUT ME — ACCESS: PUBLIC</title>
+<style>
+  @font-face{font-family:'Martian Mono';font-weight:400;font-display:swap;src:url(data:font/woff2;base64,d09GMgABAAAAAAT4AA8AAAAACbwAAASfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGigbIBxyBmA/U1RBVEQAbBEICocAhV0BNgIkAyQLJAAEIAWFBgcgG/IHCJ4FOZk073Sa+J1qWbs4b/A84Wa9PxMoJEHa3RPPiVfNwE/cFJ5f3vsXDANcbgOgOZf/UwD5j885dMx4UYKJxTyKvEUkZXok0Iw6LYqqxGZPyG+hm3nMY3LgtWXrVyKADQAoDARB0LgRPHgQTGwEAUw2tilpbO4cxIMBkAIABDDZSj7ll+iPzu0ax+8NyaKyMBfdFQ8ggMJNJjdsCNG+tYRMGQJEYQUb2BlWcCPLCQEMda+ciAvU0WoU6KAjyDT5WQVl4VUABiAAAAD/kPz/w4M4hurLVCmMev4GAqBGtQM4NILgQQFrKWArao/FXVdFYI+3uquAYBAkgBKbRaARlLjkRFD3AqAADaylEWAtg1GQIUijcJRr0KRNl15DCzjK1WnSplOPgZX6zmse9IB73e0udyQsniFICg0I6QC2ABngb8gosDFYCwAUGikhCiZ2kBRV8RhBr3dj23ZntDafN9PTzmvtY+1lTpuTE+LDSrOOeY0DX23lKSYzh9Xxb8hBr5umjLq5o18vwBvetteGzNf1sqNf7cFrlW7EenURZaX5sGnrWWK5TAlgGhZcaGwxbsyasNymnjBHzXFzTCGZawqHKw5WluazMUv/q6ap9AGMIze9pnK83Dz8ejxnN/CLzS81DYX6jn799WHfEZz7WMaBM3ApmC42mTv6YQT/kSL1IQ58sNB+xbmb39seNz5t3vS07Y+OR9l7vt/rmF2WyiuH5oIvN8w1Lp+824H7hPbt7q+tqGDU3fsu7tveVVVeftL2fYn3Ccc//9JLJz9/au8uDfUHu6ZCvvH+6YapkdMuuKD/tLHarhF7IOQardk3WcuxzluRlR+LFot+n4pQeJ5sfzKi2r1xq7PzbQMR2ua2qeetyedvcFaf1doefeiMsYdsrZ9lqk8+6YUXX+TFJ4/BJ4Unh0674AIST1I1DnYyOhNlVautrVQ1Udp5YcdNl1Y1N1VWstesupSHnnH3ldU29zRVZ129MmKvpId2mm2rD+9Z0du7R1lj2GiPpm6sb+tvrs6+anTEXg2Gdp5pqw3vVt7Tu3th47xuYOv/baQ98u1tuAacnQNDPWn4bUQ9FIhvcMQRJxx0UJUjmDqZP2Vn/ZRZ183K/gn3NviBNKaUq7TwxS7KhxyIqNRyt5odMUze+NED/gYBBHKu/9WZQOVvHq2/BHjnix9OA/jg00OTFO6P6nidC7hRAAj88jJ1rxdadgWEBRAPMFXPt7c+xzLlVtqUO5ghZYZaJvcDBEiXSbM+heLoR1kcjUYML3At6IhCvmuJCj/vEzWDviUa1KeW6GLDHExwU51zSQRseZsomPJ5ngu9otjY8qMGCUl72VnIilW7cuTL5fWOQQtkqXGXOTvbVciceAUSMlWCo9fOPGFLFhD6OrtRo1UJO9uFYzv0oF0l7aJcjhwrQp5/vZt52RYkxORYsruQqNiGvl3kiNXlbn+YxgOWxIQ02VPSS79oiQf9tWfFbqIAT55suZyrQrcevlKTCjinSq8qkkXZPloxpzYOW3oyYQiQ5xw2lwe0jlh6t3QdNmTRrsLuN8R8bGeUZkFbqvKBAAAA) format('woff2')}
+  text { font-family: 'Archivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'Martian Mono', ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+  .g { fill: #080d13 }
+  .w { fill: #91a8bb }
+  .r { fill: url(#fade) }
+  .n { fill: #d81f35 }
+  .s { fill: #91a8bb }
+</style>
+<defs>
+  <linearGradient id="fade" x1="175.8" y1="0" x2="481.08" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#45515c"/>
+    <stop offset=".62" stop-color="#45515c"/>
+    <stop offset="1" stop-color="#45515c" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect class="g" width="600" height="26"/>
+<path class="w" d="M26 8.81L24.43 4.93L22.12 7.86L16.51 7.86L15.88 4.93L0 4.93C2.73 7.44 5.98 9.96 8.6 13C10.59 14.26 13.21 14.68 16.15 15.1C20.23 15.73 24.43 18.24 26 21.07C27.57 18.24 31.77 15.73 35.85 15.1C38.79 14.68 41.41 14.26 43.4 13C46.02 9.96 49.27 7.44 52 4.93L36.12 4.93L35.49 7.86L29.88 7.86L27.57 4.93L26 8.81Z"/>
+<text class="mono w" fill="#91a8bb" x="63" y="18.25" font-size="15" letter-spacing="2.4">ABOUT ME</text>
+<path class="r" d="M175.8 14.25H420V10.25H481.08v1.5H421.5v4H175.8z"/>
+<rect class="n" x="418.75" y="9" width="4" height="4"/>
+<text class="mono s" fill="#91a8bb" x="493.08" y="16.15" font-size="9" letter-spacing="1.44">ACCESS: PUBLIC</text>
+</svg>
