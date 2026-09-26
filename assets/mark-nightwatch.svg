@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" width="1000" height="28" role="img" aria-label="Night Watch, section 3 of 7">
+<title>Night Watch — 3 of 7</title>
+<style>
+  .ground { fill: url(#ground) }
+  .hair { fill: #45515c }
+  .tick { fill: #91a8bb }
+  /*
+   * THE MARKER KEEPS ITS GROUND IN LIGHT MODE, and that is the whole point of
+   * it now.
+   *
+   * It used to delete the ground on a light host and invert its two marks to
+   * dark-on-white, on the reasoning that a white page is already a ground.
+   * That reasoning is right for a page that adapts, and this page does not:
+   * every plate on it -- the banner, the searchlight, the grid, Night Watch,
+   * the print, the Gazette, the closing frame -- carries its own night and
+   * stays dark whatever the host is set to. So on a light host the one element
+   * that inverted was the connective tissue BETWEEN the dark plates, which is
+   * exactly the wrong thing to hand to the page's ground.
+   *
+   * Keeping the ground turns each marker into a slim dark band that bridges
+   * the plate above to the plate below. The gradient already fades to nothing
+   * at both ends, so it reads as a bar of night laid on the page rather than a
+   * box stuck to it, and the white margin either side becomes spacing instead
+   * of the surface the design is sitting on.
+   *
+   * There is no light branch at all now. That is deliberate: a rule that says
+   * nothing cannot drift out of step with the plates it sits between.
+   */
+</style>
+<defs>
+  <linearGradient id="ground" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#04070b" stop-opacity="0"/>
+    <stop offset=".14" stop-color="#04070b"/>
+    <stop offset=".86" stop-color="#04070b"/>
+    <stop offset="1" stop-color="#04070b" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect class="ground" width="1000" height="28"/>
+<rect class="hair" y="13.5" width="1000" height="1"/>
+<rect class="tick" x="429.6" y="8" width="2.5" height="12"/>
+</svg>

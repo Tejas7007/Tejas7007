@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 46" width="620" height="46" role="img" aria-label="CLICK BATCOMPUTER // REMOTE ACCESS">
+<title>CLICK BATCOMPUTER // REMOTE ACCESS</title>
+<style>
+  @font-face{font-family:'Martian Mono';font-weight:400;font-display:swap;src:url(data:font/woff2;base64,d09GMgABAAAAAAUsAA8AAAAACgwAAATUAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGigbIBxKBmA/U1RBVEQAbBEICodwhhYBNgIkAyYLJgAEIAWFBgcgGwUIURSSA/BFYUxkuvCVUFpvl2OlHI8Wy0q2okRe/rKaT3P+iFLjePsYD/+sfbtv/qyJpI2oRlOLLo0q3jzSoHrjbETz/vx7+idNp5sZGahXkFmbB9pfMA/8n/r3JccLMrkEpbEHBbDDrX+LffD0PwA80OoCHDpmvCDIw5XiwDKKsoBmVKWjDKy3xwcpwVeYG4M2kqpb31KgEJBIhRAycoQ8eUKBYiGQr1EybEq50uEvhZH/AQjk61SG4Sc1eOsyuQn2SUVt/KyBnT82CukzJBeZPfIvbJEyzORVmCqL5EykB2aT747lysJGkBTISyBFuFC/C/mTOgokTTysBqST/AICkoVxK9AKF0KuBJUY6MQ4sEkOITiwPySBkCqFIYlCa4GMkERWXCJ5BRJkUAkXWJ1pIVAuFC7RqhgLh4CEnCYV2MNaESIyyr/gnjvqiIMO2G9f4XLpECP/C0EoB+gEakHUg7gOSAFJKSFBf8qxnRyI3LQ0L6+xsDDNzi7H8kV5RWneYG55mpYTA4h+yIrMJiwIiBxiwi34y4cPQoy0Vsl3sGG3EcJ2tWP8bc6549N8ax66becZfxP+LWodcfMSV+AXBIHMCkQQPggLAZQSMKDAFwW1eQg3RfgRzJQ0BsLkkImbkB4ZkYERMzVhnlYyYhf7BdlTRfBmPmLg+chfg0FGwtDmqtNtu/Vqvc7V3o6VkVn4csMXRxM0MP727flBebQNIJhDF47PC9XZiw3oiwbckRWBN8j9e+uz9Tzadj4wuKOxIxxu/dxvQg+qrkHjCL3OcrDbpvcaOoAeKFW21NcTQulA90ChpLGu7q7CgbC9ZMrky9c+XXnPbPRgtRvugw4yKq0si27WkiXKWYYWiS5QRfvomwd2bYFzxXsdPF8r3ZXfdADuOzvr7BaGcUPufbL7cgc6dnhp4T17TnaMF8Xuu1QdYGbrrunlAvPlx0XvxQweqD92c3isEMcvgpLp065c/cgE05/Dp53MmllLlkBgRic4XQwXd6lt9PL56NilRrxUtG1lI5fT0EAmNq60pzVE0q26ycNjNbu6eZi4yFB4p+OAx1s3H1jSLGTV1OJhm5d4fyFbUdvClXGaCtfvdYGeMLqbXdCufd96ubxPLbs9U9jxv4rdTqDkNhWtG+gCvaF0d5ugpX2vOpm8dwXbibOga9d/B2GHjy9lzSG7h2hkdoGAEGpCOseNeU0ZNox4DPSxyNR00kgEGenyqBO/On4AAIAT6WAIRj1UgSsyY/7745nhgC9vvswC/Hg5sivkpNroWiwHsiUgmCfMySu9G8nomoATrv/CMhX6U5homfFemKnOcHto1NLIAQ7DUK4ADsKiLXCGpaV5eMA7CEM2gkSx7yBjro8gNSlMAFnqw2lMtnHhHlZQGJ9ByI+fNVnxrhiFCuMXli666qc7modXT6QyJXcNSW0LofpLOHTXE82hs+R0eSbogiTXna89iiu8plUv9PPqorseSDnxzuupqx7qFCvmQfv66V6cirh00UkxSm+0jjqlFuihWCfVam5O+qtQOqFx9NXVh8aNunOUyufRS8fQvlJFSq6eelIy1o6jPmaGLE02KESl89WIVDotqr54dOgaMqfVzJ1Jh2pX8juS5tbTJ9VF95r+2o5wYGRhQz0VAA==) format('woff2')}
+  text { font-family: 'Archivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'Martian Mono', ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+</style>
+<rect x=".5" y=".5" width="619" height="45" rx="5" fill="#080d13" stroke="#1f262d"/>
+<rect x="16" y="13" width="3" height="20" fill="#91a8bb" opacity=".7"/>
+<polygon points="34,16.45 34,29.55 45,23" fill="#91a8bb"/>
+<text class="mono" x="56" y="29.5" font-size="18" letter-spacing="2.88"><tspan fill="#b8d4eb">CLICK BATCOMPUTER </tspan><tspan fill="#708291">// REMOTE ACCESS</tspan></text>
+<rect x="599" y="20.5" width="5" height="5" fill="#d81f35"/>
+</svg>
