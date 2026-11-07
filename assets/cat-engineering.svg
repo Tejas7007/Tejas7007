@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 26" width="600" height="26" role="img" aria-label="ENGINEERING">
+<title>ENGINEERING</title>
+<style>
+  @font-face{font-family:'Martian Mono';font-weight:400;font-display:swap;src:url(data:font/woff2;base64,d09GMgABAAAAAAM8AA8AAAAABuwAAALkAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEQAVBEICoJIgh8BNgIkAw4LDgAEIAWFBgcgG6wFEdWbswm+SLBNi/1oDxTSUEas3JGyPHeP/C8cQaSzqh7J3l3JcAz4BBwBYIhBAhQhgBMg4P/n1zmk8uLguEtTFPInzwHQs7a6uy5ucoTrMfexgboooCUwJlCCga3pC6O4gAINo4gw9ebiE6HLZXK5UJ1AoAZIQqgIgUI/A8SyFeu2aZdDa0CgMMIoiUvXOGr/k47Ri0aM5+mhuFKFdHHahbXjr4t9TOkwUqkjQY4AgA0bNyz3mOW2ZF+2ZsmX+JuAtCsbhEEyIbRL6CZhmHTqQScdFsGphx52UhBynQRS1ByETEhRiStJD4GEDN1kAt3kFqGmXZJbbqXVNtjSauHe0Hrob+eI/YVorYlQBTW04QCcD8gBwYzJakNqjXreUbbV1eDo/S9+Pc5/o7zktde2F6+/Xlz8qvNeKy95440oop6KKO57tYyyUkRTkZfKtnLvckdWVot9iu2pbKuvZzrv1VeLItX3KHcfgvPE+a8XxaWD3jry0B+n0+m/722sb5x18cvPvnjNC9dsPGHRktOqO45obNy4feneO6+74+6dN+41Zvms0fvMvueI8sr9Fw7INo+295FPrnnyyDTU2THoifdeL7PPfjq8znbioOb642cuOHTl0oUHHj9r3W27x79x1JnvH/XAg3csXLN01ux2gYV3gLMEgh1v27Jvc95v7Vn2JbzzxQ/XwQefXnScla2f0rXZJFQlEDyHJT1kpVFUgtDJQbxib5daaW87nChQNUQGgkyVLpaJvAP34UGY4j5IGt6HzDbfQm5JLIKKPl1AVC3oVlJQi7chFPG5UhG9MWpq8eNSKMQ+KyEr2G2sCp8JwoqvKFcKed0v+ACPHDQjFRzqSoZcwqR8uYrlfr0WqpI1XpHg1qxR1m3Uy7VD3Gma4jdz6tJFSqXMyi8MidqivF1tzF3F7X67FOG82tOQpbidLQRQ8GO5VAEKpPUyofZnt6U8VNHqqbeQHbJjaN26+1YA) format('woff2')}
+  text { font-family: 'Archivo', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  .mono { font-family: 'Martian Mono', ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+  .g { fill: #080d13 }
+  .w { fill: #91a8bb }
+  .r { fill: url(#fade) }
+  .n { fill: #d81f35 }
+</style>
+<defs>
+  <linearGradient id="fade" x1="214.5" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#45515c"/>
+    <stop offset=".62" stop-color="#45515c"/>
+    <stop offset="1" stop-color="#45515c" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect class="g" width="600" height="26"/>
+<path class="w" d="M26 8.81L24.43 4.93L22.12 7.86L16.51 7.86L15.88 4.93L0 4.93C2.73 7.44 5.98 9.96 8.6 13C10.59 14.26 13.21 14.68 16.15 15.1C20.23 15.73 24.43 18.24 26 21.07C27.57 18.24 31.77 15.73 35.85 15.1C38.79 14.68 41.41 14.26 43.4 13C46.02 9.96 49.27 7.44 52 4.93L36.12 4.93L35.49 7.86L29.88 7.86L27.57 4.93L26 8.81Z"/>
+<text class="mono w" fill="#91a8bb" x="63" y="18.25" font-size="15" letter-spacing="2.4">ENGINEERING</text>
+<path class="r" d="M214.5 14.25H420V10.25H600v1.5H421.5v4H214.5z"/>
+<rect class="n" x="418.75" y="9" width="4" height="4"/>
+</svg>
