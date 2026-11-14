@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 7" width="220" height="7" role="presentation">
+<style>
+  .r { fill: #45515c }
+</style>
+<path class="r" d="M0 1h1v5h-1zM0 3h220v1h-220z"/>
+</svg>
